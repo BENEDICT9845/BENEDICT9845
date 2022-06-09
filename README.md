@@ -124,4 +124,4 @@
 <br />
 
 ----
-<div align="center">Prajwal Benedict A - <a href="[https://benedict9845.github.io/portfolio/]" target="_blank">Portfolio</a></div>
+<div align="center">Prajwal Benedict A - <a href="https://benedict9845.github.io/portfolio/" target="_blank">Portfolio</a></div>
